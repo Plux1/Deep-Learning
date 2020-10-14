@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Dataset images
+Datasets/
+*.jpg
+
 # Distribution / packaging
 .Python
 build/
