@@ -55,6 +55,7 @@ networkx==2.5
 notebook @ file:///C:/ci/notebook_1596840158498/work
 numpy @ file:///C:/ci/numpy_and_numpy_base_1596233948451/work
 oauthlib==3.1.0
+opencv-python==4.4.0.46
 opt-einsum==3.1.0
 packaging==20.4
 pandas @ file:///C:/ci/pandas_1596825959733/work
