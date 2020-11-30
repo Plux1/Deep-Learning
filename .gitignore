@@ -8,6 +8,7 @@ __pycache__/
 
 # Dataset images
 Datasets/
+augmented/
 *.jpg
 
 #Model savings 
