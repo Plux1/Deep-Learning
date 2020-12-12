@@ -10,6 +10,7 @@ __pycache__/
 Datasets/
 augmented/
 *.jpg
+*.png
 
 #Model savings 
 *.h5
