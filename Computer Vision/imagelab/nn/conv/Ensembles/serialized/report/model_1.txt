@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+ Parasitized       0.99      0.86      0.92      3442
+  Uninfected       0.88      0.99      0.93      3447
+
+    accuracy                           0.92      6889
+   macro avg       0.93      0.92      0.92      6889
+weighted avg       0.93      0.92      0.92      6889
